@@ -207,22 +207,22 @@ The system may not correctly answer questions when relevant information cannot b
 High-stakes information should be independently verified.
 
 ## 16. Future Enhancements
-Possible future improvements include:
-OCR support for scanned PDFs
-Multiple document collections
-Document filtering
-Conversation memory
-User login and access control
-Feedback buttons
-FastAPI backend
-Docker deployment
-Improved evaluation using a larger question-answer dataset
+- Possible future improvements include:
+- OCR support for scanned PDFs
+- Multiple document collections
+- Document filtering
+- Conversation memory
+- User login and access control
+- Feedback buttons
+- FastAPI backend
+- Docker deployment
+- Improved evaluation using a larger question-answer dataset
 
 ## 17. Author
-Name: Muhammad N
-Project: Domain-Specific RAG Chatbot for PDF Question Answering 
-Program: B.Tech Computer Science and Engineering
-Project Type: Major Project
+- Name: Muhammad N
+- Project: Domain-Specific RAG Chatbot for PDF Question Answering 
+- Program: B.Tech Computer Science and Engineering
+- Project Type: Major Project
 
 ## 18. License
 This project was developed for educational and academic purposes.
