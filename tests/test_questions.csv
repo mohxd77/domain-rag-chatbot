@@ -1,0 +1,16 @@
+Question,Expected Answer,Expected Source,Expected Page,Test Result
+What is the attendance requirement?,75 percent,rag_test_document.pdf,1,Yes
+What are the library timings?,9:00 AM to 5:00 PM on working days,rag_test_document.pdf,1,Yes
+When is the computer laboratory open?,9:30 AM to 4:30 PM,rag_test_document.pdf,1,Yes
+What should students carry when using the library?,Their college identification card,rag_test_document.pdf,1,Yes
+Are students allowed to install unauthorized software in the computer laboratory?,"No, students should not install unauthorized software.",rag_test_document.pdf,1,Yes
+How early should students arrive before an examination?,At least 15 minutes before the examination begins,rag_test_document.pdf,1,Yes
+Are mobile phones permitted inside the examination hall?,"No, electronic devices such as mobile phones are not permitted.",rag_test_document.pdf,1,Yes
+What time does the department office operate?,10:00 AM to 4:00 PM,rag_test_document.pdf,1,Yes
+Who should students contact for academic queries?,The department office,rag_test_document.pdf,1,Yes
+What may happen if attendance is below 75 percent?,Special permission may be required according to college rules.,rag_test_document.pdf,1,Yes
+Is the library open on working days?,"Yes, it is open on working days from 9:00 AM to 5:00 PM.",rag_test_document.pdf,1,Yes
+What identification is required in the library?,A college identification card,rag_test_document.pdf,1,Yes
+Who is the principal of the college?,Not available in the document,Not available,,Yes
+What is the college phone number?,Not available in the document,Not available,,Yes
+What is the college address?,Not available in the document,Not available,,Yes
